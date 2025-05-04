@@ -36,21 +36,9 @@ cd biathlon-project
 go mod init biathlon
 ```
 
-### 3. Убедись, что у тебя Go 1.20 или новее:
-```bash
-go version
-```
-
 ### 4. Запусти проект:
 ```bash
 go run .
-```
-
-_Убедись, что папка `sunny_5_skiers/` содержит файлы `config.json` и `events`._
-
-### 5. Запусти тесты:
-```bash
-go test
 ```
 
 ## Формат входных данных
