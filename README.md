@@ -1,5 +1,3 @@
-// README.md
-
 # Biathlon Competition Tracker (Golang)
 
 ## Описание
